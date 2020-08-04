@@ -1,0 +1,22 @@
+El trabajo evaluable para el día 22 de mayo 2020 tiene que contener resueltos los siguientes puntos:
+
+ 
+
+1.- ¿Qué información contienen estos archivos?
+
+2.- Propón un modelo físico en estrella / copo de nieve para almacenar todos los datos adjuntos.
+
+3.- Resuelve en SQL: Obtén el primer país de destino de cada usuario y con este dato calcula 
+el porcentaje usuarios que eligen cada uno de los países por primera vez.
+
+4.- Haz lo mismo en R usando la librería DPLYR.
+
+5.- Crea un mapa interactivo con R, con un marcador de posición basado en la información adjunta por 
+país (latitud y longitud) en el que se muestre el ratio calculado.
+
+6.- Incluye el PIB de cada país en la etiqueta del punto 5. Observad que no se os proporciona este dato.
+
+ 
+
+En la entrega del trabajo, adjuntar los datos utilizados, los códigos y el documento que responda a 
+estas cuestiones debidamente justificadas (datos, capturas de pantalla, etc.)
